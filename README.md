@@ -1,2 +1,2 @@
 # App-deployment_Streamlit
-For DL and ML models
+To deploy DL and ML models as dynamic and interactive Web Apps with UI/UX
