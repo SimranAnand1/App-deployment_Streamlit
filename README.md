@@ -1,2 +1,2 @@
 # App-deployment_Streamlit
-For DL models
+For DL and ML models
